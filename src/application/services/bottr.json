@@ -1,0 +1,26 @@
+{
+  "insults": {
+    "insult1": "Eres más tonto que un plátano en una tienda de zapatos",
+    "insult2": "Eres más leso que un chivo en un supermercado",
+    "insult3": "Eres más bruto que un pote de pegamento",
+    "insult4": "Eres más menso que un burro con lentes",
+    "insult5": "Eres más baboso que un sapo en un charco",
+    "insult6": "Eres más lento que una tortuga en una carrera de gatos",
+    "insult7": "Eres más corto que una semana laboral en domingo",
+    "insult8": "Eres más pendejo que una puerta sin manija",
+    "insult9": "Eres más bobo que un oso hormiguero en un juego de ajedrez",
+    "insult10": "Eres más tonto que una lavadora sin electricidad"
+  },
+  "welcomeMessages": {
+    "message1": "¡Bienvenido a nuestra comunidad!",
+    "message2": "Gracias por unirte a nuestro servicio.",
+    "message3": "Esperamos que tengas una experiencia increíble aquí."
+  },
+  
+    "whitelist": {
+      "fer": "+51 975 245 482",
+      "hector": "+52 1 961 657 5933",
+      "yangelis": "+1829 260 0853"
+    }
+  }
+
