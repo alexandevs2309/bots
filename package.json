@@ -30,7 +30,7 @@
     "@nestjs/core": "^9.0.0",
     "@nestjs/microservices": "^9.3.12",
     "@nestjs/platform-express": "^9.0.0",
-    "@types/random-number": "^0.0.1",
+    "@types/random-number": "^0.0.3",
     "@whiskeysockets/baileys": "^6.4.0",
     "bard-ai": "^1.5.4",
     "firebase-admin": "^11.5.0",
