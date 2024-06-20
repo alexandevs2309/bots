@@ -40,7 +40,7 @@
     "random-number": "^0.0.9",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0",
-    "sharp": "^0.31.3",
+    "sharp": "^0.32.6",
     "streamifier": "^0.1.1",
     "tmp": "^0.2.1"
   },
